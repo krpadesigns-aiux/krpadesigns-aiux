@@ -87,14 +87,11 @@ Projects I’m actively studying for meaningful contributions. I’ll mark contr
 
 I use AI as part of the **product-design and delivery system**, not as a substitute for product judgment.
 
-1. **Understand the system** — users, jobs, constraints, dependencies, failure modes
-2. **Define behavior before implementation** — states, permissions, policies, decision rules, edge cases, expected outcomes
-3. **Create source-of-truth documentation** — product specs, design-system rules, architecture decisions, agent instructions, acceptance criteria
-4. **Prototype directly in code** — React / TypeScript, APIs, data models, working interaction flows
-5. **Use AI coding agents as implementation partners** — Claude Code, Codex, ChatGPT
-6. **Review the work** — inspect diffs, review pull requests, test states and failure paths, validate against product intent
-7. **Test with reality** — device testing, real users, field testing, production behavior
-8. **Feed findings back into the system** — update specs, document decisions, refine behavior, improve implementation
+1. **Understand** — users, jobs, constraints, dependencies, context, and failure modes
+2. **Model behavior** — states, permissions, policies, decision rules, edge cases, expected outcomes, and source-of-truth documentation
+3. **Build** — prototype directly in code and use AI coding agents as implementation partners across interfaces, APIs, and data models
+4. **Verify** — inspect diffs and pull requests, test states and failure paths, and validate on devices, with users, in the field, and in production
+5. **Learn & iterate** — feed findings back into specs, behavior models, documentation, design systems, and implementation
 
 The goal is not to generate more code. The goal is to build systems whose behavior can be **understood, tested, explained, and trusted**.
 
@@ -105,7 +102,9 @@ The goal is not to generate more code. The goal is to build systems whose behavi
 | Credential | Institution |
 |:--|:--|
 | **MSc Human-Computer Interaction** | University of York |
+| **BSc Computer Applications** | Annamalai University |
 | **AI Product Designer** | MIT · 2024 |
+| **Certified Usability Analyst** | Human Factors International |
 | **Certified ScrumMaster** | Scrum Alliance |
 
 **HCI focus:** human-computer interaction · information architecture · interaction design · usability · complex systems
