@@ -31,7 +31,6 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 | **Buyer’s Agent** | Household purchasing agent with bounded authority | Agent behavior, authorization, guardrails, trust UX, deterministic policy, auditability, agentic commerce | React Native / Expo, TypeScript, Python, Supabase, OpenAI, WooCommerce, Stripe test flows | [Public system case study](https://github.com/krpadesigns-aiux/buyer-agent-v3-case-study) |
 | **Portfolio Assistant** | Constrained assistant for recruiters and hiring managers exploring my work | Retrieval, source-grounded answers, bounded AI, portfolio knowledge architecture | Next.js, retrieval/RAG architecture, structured portfolio data | [kirubha.design](https://kirubha.design) |
 | **Agentic Design Systems** | Reusable design-system patterns for AI agents and delegated action | Autonomy levels, approvals, confidence, tool use, handoffs, failure recovery, guardrails and auditability | Figma, design tokens, Storybook, React, agent interaction patterns, eval-informed design | **In progress** |
-| **Tournament OS** | Tournament-management product for organizers, umpires, players and spectators | 0→production delivery, roles & permissions, state modeling, edge cases, field testing, mobile + web | React Native / Expo, Android, SQLite, Supabase, GitHub, real-court testing | [Live product](https://tournament-os.app) |
 
 ---
 
@@ -52,6 +51,7 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 
 | Project | Focus | What it demonstrates | Status / evidence |
 |:--|:--|:--|:--|
+| **Tournament OS** | Tournament-management product for organizers, umpires, players and spectators | 0→production delivery, roles & permissions, state modeling, edge cases, field testing, mobile + web | [Live product](https://tournament-os.app) |
 | **Trace Intel** | AI observability and failed LLM trace investigation | AI failure UX, severity vs confidence, root-cause investigation, remediation workflows, eval thinking and design systems | [GitHub](https://github.com/krpadesigns-aiux/langfuse-intelligence-v2) |
 | **Voice Agent** | Conversational voice interaction | Voice UX, turn-taking, conversational behavior, real-time AI interaction and multimodal prototyping | ElevenLabs + OpenAI · independent experiment |
 
