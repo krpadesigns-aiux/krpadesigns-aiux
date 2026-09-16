@@ -5,87 +5,46 @@ AI systems · Agentic products · Developer tools · Enterprise platforms
 
 I design complex products from **research → behavior model → prototype → implementation → evaluation → production**.
 
-15+ years in product and UX design. I’ve shipped AI/ML products since 2018 across agentic systems, developer tooling, commerce, enterprise platforms, conversational interfaces, and mobile products.
+15+ years in product and UX design. I’ve shipped AI/ML products since 2018 across predictive, conversational, automation, recommendation, assistive, and agentic experiences.
+
+I started using GitHub seriously when AI coding tools like **Codex and Claude Code** made design-to-code part of my product workflow.
 
 [Portfolio → kirubha.design](https://kirubha.design)
 
 ---
 
-## Selected work
+## 🚀 Featured projects
 
-### Buyer’s Agent
-**Agentic commerce · bounded autonomy · trust & guardrails**
-
-A household purchasing agent that decides when it can act, when it must ask, and when a policy boundary stops execution.
-
-**Intent → Context → Policy → ACT / ASK / STOP → Execution → Audit**
-
-What I worked on:
-- agent behavior and authorization model
-- deterministic policy engine
-- failure states and execution semantics
-- household memory and preferences
-- merchant comparison and commerce architecture
-- agentic-commerce protocol research
-- design system and implementation
-- verification and test scenarios
-
-[View public system case study →](https://github.com/krpadesigns-aiux/buyer-agent-v3-case-study)
+| Project | What it is | What it demonstrates | Stack / methods | Evidence |
+|:--|:--|:--|:--|:--|
+| **Buyer’s Agent** | Household purchasing agent with bounded authority | Agent behavior, authorization, guardrails, trust UX, deterministic policy, auditability, agentic commerce | React Native / Expo, TypeScript, Python, Supabase, OpenAI, WooCommerce, Stripe test flows | [Public system case study](https://github.com/krpadesigns-aiux/buyer-agent-v3-case-study) |
+| **Tournament OS** | Tournament-management product for organizers, umpires, players and spectators | 0→production delivery, roles & permissions, state modeling, edge cases, field testing, mobile + web | React Native / Expo, Android, SQLite, Supabase, GitHub, real-court testing | [Live product](https://tournament-os.app) |
+| **Trace Intel** | AI-observability interface for investigating failed LLM traces | AI failure UX, severity vs confidence, root-cause investigation, remediation, eval thinking, design systems | Next.js, TypeScript, Tailwind, shadcn/ui, observability patterns | [GitHub](https://github.com/krpadesigns-aiux/langfuse-intelligence-v2) |
+| **Portfolio Assistant** | Constrained assistant for recruiters and hiring managers exploring my work | Retrieval, source-grounded answers, bounded AI, portfolio knowledge architecture | Next.js, retrieval/RAG architecture, structured portfolio data | [kirubha.design](https://kirubha.design) |
 
 ---
 
-### Tournament OS
-**0 → production · systems design · field tested**
+## 🏆 Key achievements
 
-A tournament-management product designed and built from initial workflow through Android production release.
-
-**Organizer · Umpire · Player · Spectator**
-
-The work includes:
-- tournament state and progression
-- roles and permissions
-- scoring rules and match states
-- live scoring and public sharing
-- failure and edge-case design
-- real-court testing
-- Android + web delivery
-- QA, GitHub workflow, and release management
-
-The product was tested during real tournament play, and court feedback fed directly back into design and implementation.
-
-[View live product →](https://tournament-os.app)
+- **15+ years designing complex enterprise products** across AI, developer tools, commerce, finance, geospatial systems, conversational interfaces, and mobile products.
+- **Shipped AI/ML experiences since 2018**, progressing across predictive UI, conversation, automation, recommendation, assistive AI, and agentic systems.
+- **Worked across design and implementation**, using behavior models, design systems, APIs, working prototypes, GitHub, pull requests, QA, and release workflows.
+- **Designed systems with explicit roles, permissions, policies, failures, edge cases, guardrails, and auditability** rather than only happy-path interfaces.
+- **Built and field-tested products beyond Figma**, including real-device testing, live workflows, real-user feedback, and production release work.
+- **Use AI coding agents as implementation partners** while keeping product judgment, verification, and source-of-truth documentation human-governed.
 
 ---
 
-### Trace Intel
-**AI observability · evaluation failures · investigation UX**
+## 💼 Professional experience
 
-An AI-observability interface for investigating failed LLM traces and understanding:
-
-**What failed → Why → Evidence → Confidence → Suggested action**
-
-The project explores:
-- AI failure investigation
-- severity vs confidence
-- root-cause presentation
-- evidence design
-- remediation workflows
-- design-system architecture
-- responsive implementation
-
-[View on GitHub →](https://github.com/krpadesigns-aiux/langfuse-intelligence-v2)
-
----
-
-## What I bring
-
-- **AI product design** — agent behavior, trust, human control, failure states and explainability
-- **Systems design** — roles, permissions, states, workflows, edge cases and guardrails
-- **Enterprise UX** — complex B2B workflows, platforms and developer-facing products
-- **Design systems** — tokens, components, interaction patterns and design-to-code
-- **Prototype + build** — moving from Figma and behavioral models into working software
-- **Evaluation + QA** — testing behavior, failures and production workflows rather than only happy paths
-- **Product delivery** — GitHub, pull requests, implementation review, deployment and release
+| AI / product model | Company | Role | Product focus |
+|:--|:--|:--|:--|
+| **Agentic AI** | Capital One Software | Lead Product Designer | AI investigation platform · complex enterprise workflows · agent behavior |
+| **Assistive AI** | Google / Android | Sr UX / Product Designer | Developer tools · Gemini-assisted workflows · bug investigation |
+| **Recommendation** | Walmart | Principal Product Designer | Promotional planning · recommendation workflows · enterprise decision support |
+| **Automation** | Amazon | Sr UX Designer | Finance automation · operational workflows |
+| **Chat & Conversation** | PepsiCo | Lead Product Designer | Conversational product experiences · workflow design |
+| **Predictive / ML UI** | OXY | Lead Product Designer | ML-powered geospatial workflows · predictive interfaces |
 
 ---
 
@@ -112,8 +71,6 @@ The project explores:
 
 I use AI as part of the **product-design and delivery system**, not as a substitute for product judgment.
 
-My workflow typically looks like:
-
 1. **Understand the system** — users, jobs, constraints, dependencies, failure modes
 2. **Define behavior before implementation** — states, permissions, policies, decision rules, edge cases, expected outcomes
 3. **Create source-of-truth documentation** — product specs, design-system rules, architecture decisions, agent instructions, acceptance criteria
@@ -127,28 +84,27 @@ The goal is not to generate more code. The goal is to build systems whose behavi
 
 ---
 
-## Experience
+## 🎓 Education & certifications
 
-I’ve designed products across:
+| Credential | Institution |
+|:--|:--|
+| **MSc Human-Computer Interaction** | University of York |
+| **AI Product Designer** | MIT · 2024 |
+| **Certified ScrumMaster** | Scrum Alliance |
 
-**Agentic AI** — Capital One Software  
-**Assistive AI / Developer Tools** — Google Android  
-**Recommendation systems** — Walmart  
-**Automation** — Amazon  
-**Conversational products** — PepsiCo  
-**Predictive / ML interfaces** — OXY
+**HCI focus:** human-computer interaction · information architecture · interaction design · usability · complex systems
 
 ---
 
 ## Current focus
 
-- agentic commerce
+- Agentic commerce and delegated authority
 - AI evaluation and observability
 - AI-native design workflows
-- design systems for AI interfaces
-- human oversight and delegated authority
-- design-to-code workflows
-- developer tools
+- Design systems for AI interfaces
+- Human oversight and guardrails
+- Design-to-code and agent-assisted implementation
+- Developer tools
 
 ---
 
