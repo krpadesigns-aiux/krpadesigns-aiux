@@ -24,13 +24,13 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 
 ---
 
-## 🚀 Featured projects
+## 🚀 AI-Native Projects
 
 | Project | What it is | What it demonstrates | Stack / methods | Evidence |
 |:--|:--|:--|:--|:--|
-| **Buyer’s Agent** | Household purchasing agent with bounded authority | Agent behavior, authorization, guardrails, trust UX, deterministic policy, auditability, agentic commerce | React Native / Expo, TypeScript, Python, Supabase, OpenAI, WooCommerce, Stripe test flows | [Public system case study](https://github.com/krpadesigns-aiux/buyer-agent-v3-case-study) |
-| **Portfolio Assistant** | Constrained assistant for recruiters and hiring managers exploring my work | Retrieval, source-grounded answers, bounded AI, portfolio knowledge architecture | Next.js, retrieval/RAG architecture, structured portfolio data | [kirubha.design](https://kirubha.design) |
-| **Agentic Design Systems** | Reusable design-system patterns for AI agents and delegated action | Autonomy levels, approvals, confidence, tool use, handoffs, failure recovery, guardrails and auditability | Figma, design tokens, Storybook, React, agent interaction patterns, eval-informed design | **In progress** |
+| **Buyer’s Agent** | **Agentic AI** · Household purchasing agent with bounded authority | Agent behavior, authorization, guardrails, trust UX, deterministic policy, auditability, agentic commerce | React Native / Expo, TypeScript, Python, Supabase, OpenAI, WooCommerce, Stripe test flows | [Public system case study](https://github.com/krpadesigns-aiux/buyer-agent-v3-case-study) |
+| **Portfolio Assistant** | **Conversation Design** · Constrained assistant for recruiters and hiring managers exploring my work | Retrieval, source-grounded answers, bounded AI, portfolio knowledge architecture | Next.js, retrieval/RAG architecture, structured portfolio data | [kirubha.design](https://kirubha.design) |
+| **Agentic Design Systems** | **Design Systems** · Reusable design-system patterns for AI agents and delegated action | Autonomy levels, approvals, confidence, tool use, handoffs, failure recovery, guardrails and auditability | Figma, design tokens, Storybook, React, agent interaction patterns, eval-informed design | **In progress** |
 
 ---
 
