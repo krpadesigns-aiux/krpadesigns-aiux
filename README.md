@@ -89,6 +89,25 @@ The project explores:
 
 ---
 
+## 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ts,js,react,nextjs,nodejs,python,tailwind,postgres,git,github,vscode,vercel,androidstudio" alt="Figma, TypeScript, JavaScript, React, Next.js, Node.js, Python, Tailwind CSS, PostgreSQL, Git, GitHub, VS Code, Vercel and Android Studio" />
+</p>
+
+| Category | Experience |
+|:--|:--|
+| **Design Expertise** | Product Design, UX Design, Interaction Design, Information Architecture, Conversation Design, Enterprise UX, Complex Workflows, Mobile & Web |
+| **Research & Validation** | User Research, Usability Testing, Field Testing, Prototype Evaluation, Edge-case Testing, Failure-path Testing |
+| **Design Systems** | Design Tokens, Component Systems, Storybook, Responsive Patterns, Design-to-Code, Documentation & Governance |
+| **AI Product Design** | Agent Behavior, Human-in-the-Loop, Guardrails, AI Evals, Observability, Retrieval/RAG, Tool Calling, Agentic Commerce |
+| **Design with AI** | ChatGPT, Claude Code, Codex, Gemini, Figma MCP, MCP, Agent Skills |
+| **Design Engineering** | TypeScript, React, Next.js, React Native / Expo, Tailwind CSS, HTML/CSS, REST APIs, Supabase / PostgreSQL |
+| **Prototype & Build** | Figma, FigJam, Framer, Replit, Storybook, Working Code Prototypes |
+| **Delivery** | Git, GitHub, Pull Requests, Vercel, Render, Android SDK, Google Play, QA & Release Workflows |
+
+---
+
 ## How I work with AI
 
 I use AI as part of the **product-design and delivery system**, not as a substitute for product judgment.
