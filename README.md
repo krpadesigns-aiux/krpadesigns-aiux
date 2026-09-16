@@ -13,18 +13,6 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 
 ---
 
-## 🚀 Featured projects
-
-| Project | What it is | What it demonstrates | Stack / methods | Evidence |
-|:--|:--|:--|:--|:--|
-| **Buyer’s Agent** | Household purchasing agent with bounded authority | Agent behavior, authorization, guardrails, trust UX, deterministic policy, auditability, agentic commerce | React Native / Expo, TypeScript, Python, Supabase, OpenAI, WooCommerce, Stripe test flows | [Public system case study](https://github.com/krpadesigns-aiux/buyer-agent-v3-case-study) |
-| **Tournament OS** | Tournament-management product for organizers, umpires, players and spectators | 0→production delivery, roles & permissions, state modeling, edge cases, field testing, mobile + web | React Native / Expo, Android, SQLite, Supabase, GitHub, real-court testing | [Live product](https://tournament-os.app) |
-| **Trace Intel** | AI-observability interface for investigating failed LLM traces | AI failure UX, severity vs confidence, root-cause investigation, remediation, eval thinking, design systems | Next.js, TypeScript, Tailwind, shadcn/ui, observability patterns | [GitHub](https://github.com/krpadesigns-aiux/langfuse-intelligence-v2) |
-| **Portfolio Assistant** | Constrained assistant for recruiters and hiring managers exploring my work | Retrieval, source-grounded answers, bounded AI, portfolio knowledge architecture | Next.js, retrieval/RAG architecture, structured portfolio data | [kirubha.design](https://kirubha.design) |
-| **Agentic Design Systems** | Reusable design-system patterns for AI agents and delegated action | Autonomy levels, approvals, confidence, tool use, handoffs, failure recovery, guardrails and auditability | Figma, design tokens, Storybook, React, agent interaction patterns, eval-informed design | **In progress** |
-
----
-
 ## 🏆 Key achievements
 
 - **15+ years designing complex enterprise products** across AI, developer tools, commerce, finance, geospatial systems, conversational interfaces, and mobile products.
@@ -33,6 +21,17 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 - **Designed systems with explicit roles, permissions, policies, failures, edge cases, guardrails, and auditability** rather than only happy-path interfaces.
 - **Built and field-tested products beyond Figma**, including real-device testing, live workflows, real-user feedback, and production release work.
 - **Use AI coding agents as implementation partners** while keeping product judgment, verification, and source-of-truth documentation human-governed.
+
+---
+
+## 🚀 Featured projects
+
+| Project | What it is | What it demonstrates | Stack / methods | Evidence |
+|:--|:--|:--|:--|:--|
+| **Buyer’s Agent** | Household purchasing agent with bounded authority | Agent behavior, authorization, guardrails, trust UX, deterministic policy, auditability, agentic commerce | React Native / Expo, TypeScript, Python, Supabase, OpenAI, WooCommerce, Stripe test flows | [Public system case study](https://github.com/krpadesigns-aiux/buyer-agent-v3-case-study) |
+| **Portfolio Assistant** | Constrained assistant for recruiters and hiring managers exploring my work | Retrieval, source-grounded answers, bounded AI, portfolio knowledge architecture | Next.js, retrieval/RAG architecture, structured portfolio data | [kirubha.design](https://kirubha.design) |
+| **Agentic Design Systems** | Reusable design-system patterns for AI agents and delegated action | Autonomy levels, approvals, confidence, tool use, handoffs, failure recovery, guardrails and auditability | Figma, design tokens, Storybook, React, agent interaction patterns, eval-informed design | **In progress** |
+| **Tournament OS** | Tournament-management product for organizers, umpires, players and spectators | 0→production delivery, roles & permissions, state modeling, edge cases, field testing, mobile + web | React Native / Expo, Android, SQLite, Supabase, GitHub, real-court testing | [Live product](https://tournament-os.app) |
 
 ---
 
@@ -46,6 +45,15 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 | **Automation** | Amazon | Sr UX Designer | Finance automation · operational workflows | Shifted complex regulated finance / tax workflows toward self-service, exception handling and auditability |
 | **Chat & Conversation** | PepsiCo | Lead Product Designer | Conversational product experiences · workflow design | Connected B2B commerce, order-management, fulfillment and conversational assistance across enterprise workflows |
 | **Predictive / ML UI** | OXY | Lead Product Designer | ML-powered geospatial workflows · predictive interfaces | **90% reduction in manual log analysis** · **$1.2M annual savings** · replaced **100+ spreadsheets** with a unified system |
+
+---
+
+## 🧪 Other projects
+
+| Project | Focus | What it demonstrates | Status / evidence |
+|:--|:--|:--|:--|
+| **Trace Intel** | AI observability and failed LLM trace investigation | AI failure UX, severity vs confidence, root-cause investigation, remediation workflows, eval thinking and design systems | [GitHub](https://github.com/krpadesigns-aiux/langfuse-intelligence-v2) |
+| **Voice Agent** | Conversational voice interaction | Voice UX, turn-taking, conversational behavior, real-time AI interaction and multimodal prototyping | ElevenLabs + OpenAI · independent experiment |
 
 ---
 
