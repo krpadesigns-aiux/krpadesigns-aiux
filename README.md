@@ -57,6 +57,19 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 
 ---
 
+## 🌐 Open-source contribution targets
+
+Projects I’m actively studying for meaningful contributions. I’ll mark contributions here when there is a public discussion, issue, or pull request to reference.
+
+| Project | Why it fits my work | Contribution direction | Status |
+|:--|:--|:--|:--|
+| **[Universal Commerce Protocol (UCP)](https://github.com/Universal-Commerce-Protocol/ucp)** | Directly overlaps with Buyer’s Agent and agentic commerce | Buyer authority, commercial provenance, substitutions, negotiation, checkout state, human approval | **Exploring** · [Provenance discussion #724](https://github.com/Universal-Commerce-Protocol/ucp/discussions/724) |
+| **[Anthropic Commerce Agents](https://github.com/anthropics/commerce-agents)** | Reference implementation for agent-driven commerce | Approval UX, guardrails, memory, disclosures, checkout handoff, eval scenarios | **Contribution target** |
+| **[Google Agent Payments Protocol (AP2)](https://github.com/google-agentic-commerce/AP2)** | Delegated payment and authorization protocols | Mandate UX, authorization evidence, human-present vs autonomous flows, test scenarios | **Contribution target** |
+| **[OpenHands](https://github.com/OpenHands/OpenHands)** | AI-native developer tooling and autonomous software agents | Agent progress, approvals, failure/recovery UX, evaluation workflows, frontend/docs | **Contribution target** |
+
+---
+
 ## 🛠️ Tech stack
 
 <p align="left">
