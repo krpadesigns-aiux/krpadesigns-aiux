@@ -21,6 +21,7 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 | **Tournament OS** | Tournament-management product for organizers, umpires, players and spectators | 0→production delivery, roles & permissions, state modeling, edge cases, field testing, mobile + web | React Native / Expo, Android, SQLite, Supabase, GitHub, real-court testing | [Live product](https://tournament-os.app) |
 | **Trace Intel** | AI-observability interface for investigating failed LLM traces | AI failure UX, severity vs confidence, root-cause investigation, remediation, eval thinking, design systems | Next.js, TypeScript, Tailwind, shadcn/ui, observability patterns | [GitHub](https://github.com/krpadesigns-aiux/langfuse-intelligence-v2) |
 | **Portfolio Assistant** | Constrained assistant for recruiters and hiring managers exploring my work | Retrieval, source-grounded answers, bounded AI, portfolio knowledge architecture | Next.js, retrieval/RAG architecture, structured portfolio data | [kirubha.design](https://kirubha.design) |
+| **Agentic Design Systems** | Reusable design-system patterns for AI agents and delegated action | Autonomy levels, approvals, confidence, tool use, handoffs, failure recovery, guardrails and auditability | Figma, design tokens, Storybook, React, agent interaction patterns, eval-informed design | **In progress** |
 
 ---
 
@@ -37,14 +38,14 @@ I started using GitHub seriously when AI coding tools like **Codex and Claude Co
 
 ## 💼 Professional experience
 
-| AI / product model | Company | Role | Product focus |
-|:--|:--|:--|:--|
-| **Agentic AI** | Capital One Software | Lead Product Designer | AI investigation platform · complex enterprise workflows · agent behavior |
-| **Assistive AI** | Google / Android | Sr UX / Product Designer | Developer tools · Gemini-assisted workflows · bug investigation |
-| **Recommendation** | Walmart | Principal Product Designer | Promotional planning · recommendation workflows · enterprise decision support |
-| **Automation** | Amazon | Sr UX Designer | Finance automation · operational workflows |
-| **Chat & Conversation** | PepsiCo | Lead Product Designer | Conversational product experiences · workflow design |
-| **Predictive / ML UI** | OXY | Lead Product Designer | ML-powered geospatial workflows · predictive interfaces |
+| AI / product model | Company | Role | Product focus | Impact / evidence |
+|:--|:--|:--|:--|:--|
+| **Agentic AI** | Capital One Software | Lead Product Designer | AI investigation platform · complex enterprise workflows · agent behavior | **30–40% reduction in root-cause analysis time** · consolidated **4–5 fragmented tools** into a more coherent investigation workflow |
+| **Assistive AI** | Google / Android | Sr UX / Product Designer | Developer tools · Gemini-assisted workflows · bug investigation | Made dense logs and system signals easier to interpret inside existing Android debugging workflows |
+| **Recommendation** | Walmart | Principal Product Designer | Promotional planning · recommendation workflows · enterprise decision support | Connected planning, assortment, inventory visibility and execution into a more coherent merchant experience |
+| **Automation** | Amazon | Sr UX Designer | Finance automation · operational workflows | Shifted complex regulated finance / tax workflows toward self-service, exception handling and auditability |
+| **Chat & Conversation** | PepsiCo | Lead Product Designer | Conversational product experiences · workflow design | Connected B2B commerce, order-management, fulfillment and conversational assistance across enterprise workflows |
+| **Predictive / ML UI** | OXY | Lead Product Designer | ML-powered geospatial workflows · predictive interfaces | **90% reduction in manual log analysis** · **$1.2M annual savings** · replaced **100+ spreadsheets** with a unified system |
 
 ---
 
