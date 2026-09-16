@@ -12,7 +12,7 @@ Domains: Developer tools · Commerce · FinTech / TaxTech · Enterprise platform
 ---
 
 - **15+ years designing complex enterprise products, Shipped AI/ML work since 2018** 
-- **Progressed across the AI product maturity curve in prefessional work** — predictive ML → conversation → automation → recommendation → assistive AI → agentic systems.
+- **Progressed across the AI product maturity curve in professional work** — predictive ML → conversation → automation → recommendation → assistive AI → agentic systems.
 - **Work across design → code → production**, translating research and behavior models into working prototypes, APIs, GitHub / pull-request workflows, QA, and release-ready products.
 - **Design for system behavior, not only screens** — roles, permissions, policies, human oversight, guardrails, failure states, evaluation, explainability, and auditability.
 
