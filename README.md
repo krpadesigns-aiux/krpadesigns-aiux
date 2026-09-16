@@ -87,11 +87,9 @@ Projects I’m actively studying for meaningful contributions. I’ll mark contr
 
 I use AI as part of the **product-design and delivery system**, not as a substitute for product judgment.
 
-1. **Understand** — users, jobs, constraints, dependencies, context, and failure modes
-2. **Model behavior** — states, permissions, policies, decision rules, edge cases, expected outcomes, and source-of-truth documentation
-3. **Build** — prototype directly in code and use AI coding agents as implementation partners across interfaces, APIs, and data models
-4. **Verify** — inspect diffs and pull requests, test states and failure paths, and validate on devices, with users, in the field, and in production
-5. **Learn & iterate** — feed findings back into specs, behavior models, documentation, design systems, and implementation
+**User problem → Frame → Context → Model behavior → Systemize → Build → Review & Test → Document → Ship → Learn & iterate**
+
+I start with the user problem, frame the product and system context, define behavior and edge cases, turn reusable patterns into design-system rules, build with AI coding tools and agents, review and test against real scenarios, document decisions and source-of-truth guidance, ship, and feed what I learn into the next iteration.
 
 The goal is not to generate more code. The goal is to build systems whose behavior can be **understood, tested, explained, and trusted**.
 
