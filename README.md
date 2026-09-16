@@ -1,9 +1,11 @@
 # Kirubha Kittusamy
 
 **Staff / Principal Product Designer**  
-AI systems · Agentic products · Developer tools · Enterprise platforms
+AI systems · Agentic products · Developer tools · Enterprise platforms · Consumer & mobile apps
 
 I design complex products from **research → behavior model → prototype → implementation → evaluation → production**.
+
+Domains: Developer tools · Commerce · FinTech / TaxTech · Enterprise platforms · Geospatial · Conversational AI · Consumer & mobile
 
 [Portfolio → kirubha.design](https://kirubha.design)
 
