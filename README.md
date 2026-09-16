@@ -5,18 +5,14 @@ AI systems · Agentic products · Developer tools · Enterprise platforms
 
 I design complex products from **research → behavior model → prototype → implementation → evaluation → production**.
 
-15+ years in product and UX design. I’ve shipped AI/ML products since 2018 across predictive, conversational, automation, recommendation, assistive, and agentic experiences.
-
-I started using GitHub seriously when AI coding tools like **Codex and Claude Code** made design-to-code part of my product workflow.
-
 [Portfolio → kirubha.design](https://kirubha.design)
 
 ---
 
 ## 🏆 Key achievements
 
-- **15+ years designing complex enterprise products, with AI/ML work since 2018** across predictive, conversational, automation, recommendation, assistive, and agentic experiences.
-- **Progressed across the AI product maturity curve** — predictive ML → conversation → automation → recommendation → assistive AI → agentic systems.
+- **15+ years designing complex enterprise products, Shipped AI/ML work since 2018** 
+- **Progressed across the AI product maturity curve in prefessional work** — predictive ML → conversation → automation → recommendation → assistive AI → agentic systems.
 - **Work across design → code → production**, translating research and behavior models into working prototypes, APIs, GitHub / pull-request workflows, QA, and release-ready products.
 - **Design for system behavior, not only screens** — roles, permissions, policies, human oversight, guardrails, failure states, evaluation, explainability, and auditability.
 
