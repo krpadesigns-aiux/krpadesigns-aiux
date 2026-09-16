@@ -108,9 +108,9 @@ The goal is not to generate more code. The goal is to build systems whose behavi
 
 | Credential | Institution |
 |:--|:--|
+| **AI Product Designer** | MIT · 2024 |
 | **MSc Human-Computer Interaction** | University of York |
 | **BSc Computer Applications** | Annamalai University |
-| **AI Product Designer** | MIT · 2024 |
 | **Certified Usability Analyst** | Human Factors International |
 | **Certified ScrumMaster** | Scrum Alliance |
 
