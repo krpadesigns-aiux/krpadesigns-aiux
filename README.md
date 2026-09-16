@@ -89,7 +89,16 @@ I use AI as part of the **product-design and delivery system**, not as a substit
 
 **User problem → Frame → Context → Model behavior → Systemize → Build → Review & Test → Document → Ship → Learn & iterate**
 
-I start with the user problem, frame the product and system context, define behavior and edge cases, turn reusable patterns into design-system rules, build with AI coding tools and agents, review and test against real scenarios, document decisions and source-of-truth guidance, ship, and feed what I learn into the next iteration.
+- **User problem** — start with the user need, job to be done, pain point, and desired outcome.
+- **Frame** — define the opportunity, scope, product intent, constraints, and what success should mean.
+- **Context** — understand users, workflows, data, dependencies, business rules, technical constraints, and failure modes.
+- **Model behavior** — define states, roles, permissions, policies, decision rules, human oversight, edge cases, and expected outcomes before implementation.
+- **Systemize** — turn recurring behavior and interaction patterns into reusable design-system rules, components, tokens, agent states, guardrails, and source-of-truth guidance.
+- **Build** — prototype and implement with design-to-code workflows, APIs, data models, and AI coding tools and agents as implementation partners.
+- **Review & Test** — inspect diffs and pull requests, test happy paths and failure paths, and validate on devices, with users, in the field, and against product intent.
+- **Document** — capture product specs, design-system rules, architecture decisions, agent instructions, acceptance criteria, and what changed and why.
+- **Ship** — move tested work into release and production workflows with the appropriate QA, approvals, and guardrails.
+- **Learn & iterate** — use user feedback, production behavior, failures, and new evidence to refine the frame, behavior model, design system, documentation, and implementation.
 
 The goal is not to generate more code. The goal is to build systems whose behavior can be **understood, tested, explained, and trusted**.
 
