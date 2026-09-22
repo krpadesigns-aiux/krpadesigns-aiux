@@ -31,7 +31,7 @@ Domains: Developer tools · Commerce · FinTech / TaxTech · Enterprise platform
 ## 💼 Professional experience
 
 | AI / product model | Company | Role | Product focus | Impact / evidence | Case study |
-|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|:--|:--|
 | **Agentic AI** | Capital One Software | **Lead AI Product Designer, Slingshot** | AI investigation platform · complex enterprise workflows · agent behavior | **30–40% reduction in root-cause analysis time** · consolidated **4–5 fragmented tools** into a more coherent investigation workflow | Pending publication |
 | **Assistive AI** | Google | **UX Designer, Android Developer Experience** | Developer tools · Gemini-assisted workflows · bug investigation | Made dense logs and system signals easier to interpret inside existing Android debugging workflows | Pending publication |
 | **Recommendation** | Walmart Inc. | **Principal UX Product Designer, Merchant Platform** | Promotional planning · recommendation workflows · enterprise decision support | Connected planning, assortment, inventory visibility and execution into a more coherent merchant experience | Pending publication |
