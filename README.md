@@ -30,14 +30,14 @@ Domains: Developer tools · Commerce · FinTech / TaxTech · Enterprise platform
 
 ## 💼 Professional experience
 
-| AI / product model | Company | Role | Product focus | Impact / evidence |
+| AI / product model | Company | Role | Product focus | Impact / evidence | Case study |
 |:--|:--|:--|:--|:--|
-| **Agentic AI** | Capital One Software | **Lead AI Product Designer, Slingshot** | AI investigation platform · complex enterprise workflows · agent behavior | **30–40% reduction in root-cause analysis time** · consolidated **4–5 fragmented tools** into a more coherent investigation workflow |
-| **Assistive AI** | Google | **UX Designer, Android Developer Experience** | Developer tools · Gemini-assisted workflows · bug investigation | Made dense logs and system signals easier to interpret inside existing Android debugging workflows |
-| **Recommendation** | Walmart Inc. | **Principal UX Product Designer, Merchant Platform** | Promotional planning · recommendation workflows · enterprise decision support | Connected planning, assortment, inventory visibility and execution into a more coherent merchant experience |
-| **Automation** | Amazon | **Lead UX Product Designer, FinTech / TaxTech** | Finance automation · operational workflows | Shifted complex regulated finance / tax workflows toward self-service, exception handling and auditability |
-| **Chat & Conversation** | PepsiCo | **UX Lead, Commerce, Order Management & Product Catalog** | Conversational product experiences · workflow design | Connected B2B commerce, order-management, fulfillment and conversational assistance across enterprise workflows |
-| **Predictive / ML UI** | Occidental Petroleum (OXY) | **Senior UX Designer** | ML-powered geospatial workflows · predictive interfaces | **90% reduction in manual log analysis** · **$1.2M annual savings** · replaced **100+ spreadsheets** with a unified system |
+| **Agentic AI** | Capital One Software | **Lead AI Product Designer, Slingshot** | AI investigation platform · complex enterprise workflows · agent behavior | **30–40% reduction in root-cause analysis time** · consolidated **4–5 fragmented tools** into a more coherent investigation workflow | Pending publication |
+| **Assistive AI** | Google | **UX Designer, Android Developer Experience** | Developer tools · Gemini-assisted workflows · bug investigation | Made dense logs and system signals easier to interpret inside existing Android debugging workflows | Pending publication |
+| **Recommendation** | Walmart Inc. | **Principal UX Product Designer, Merchant Platform** | Promotional planning · recommendation workflows · enterprise decision support | Connected planning, assortment, inventory visibility and execution into a more coherent merchant experience | Pending publication |
+| **Automation** | Amazon | **Lead UX Product Designer, FinTech / TaxTech** | Finance automation · operational workflows | Shifted complex regulated finance / tax workflows toward self-service, exception handling and auditability | Pending publication |
+| **Chat & Conversation** | PepsiCo | **UX Lead, Commerce, Order Management & Product Catalog** | Conversational product experiences · workflow design | Connected B2B commerce, order-management, fulfillment and conversational assistance across enterprise workflows | Pending publication |
+| **Predictive / ML UI** | Occidental Petroleum (OXY) | **Senior UX Designer** | ML-powered geospatial workflows · predictive interfaces | **90% reduction in manual log analysis** · **$1.2M annual savings** · replaced **100+ spreadsheets** with a unified system | Pending publication |
 
 ---
 
